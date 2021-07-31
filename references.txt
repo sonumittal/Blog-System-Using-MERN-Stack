@@ -1,0 +1,8 @@
+https://reactjs.org/docs/getting-started.html - React JS
+
+https://redux.js.org/ - Redux
+
+https://www.mongodb.com/ - mongo db
+
+https://nodejs.org/en/docs/ - node js
+
